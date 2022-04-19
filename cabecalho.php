@@ -10,3 +10,4 @@
     <link rel="stylesheet" href="style.css">
     <title>Cinematics</title>
 </head>
+</html>
